@@ -50,7 +50,7 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/deepakrajjs-29/VI-Assistant.git
+git clone https://github.com/username/LeafGuard-AI.git
 
 # 2️⃣ Navigate to directory
 cd VI-Assistant
